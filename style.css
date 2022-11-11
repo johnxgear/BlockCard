@@ -23,7 +23,6 @@ p{
 
   .main{
     display: flex;
-    gap:8px;
   }
   .main-img{
     width: 30%;
